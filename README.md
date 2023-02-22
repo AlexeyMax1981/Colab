@@ -2,4 +2,3 @@
 
 This is [link](http://google.com/)
 
-А если так?
